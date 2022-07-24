@@ -1,0 +1,27 @@
+body
+{
+    background-color: aqua;
+}
+img
+{
+  width: 500px;
+  height: 500px;
+    display: flex;
+    justify-content: flex-start;
+}
+a
+{
+  display: flex;
+    justify-content: flex-start;
+}
+h1{
+  background-color: rgb(100,150,250);
+  display: flex;
+  justify-content: center;
+  margin-right: 50px;
+}
+h2
+{
+  background-color: rgb(100,250,250);
+  margin-right: 50px;
+}
